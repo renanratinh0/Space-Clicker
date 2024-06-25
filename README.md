@@ -1,4 +1,4 @@
-# Space Clicker
+# 🖱 Space Clicker
 
 Um simples contador de cliques desenvolvido em JavaScript.
 
